@@ -1,3 +1,1 @@
-alpine
-kasmweb/nginx:1.25.3
-linuxsever/aclibre-wbb:latest
+oldiy/chrome-novnc:latest
